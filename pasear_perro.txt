@@ -1,0 +1,4 @@
+Estoy paseando al perro por ejemplo. Será? 
+
+:wq para guardar y salir de vim
+
